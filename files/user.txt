@@ -1,0 +1,10 @@
+Calvin follows Alan
+Ward follows Alan
+Alan follows Martin
+Calvin follows Vinod, Alan, Martin
+Ward follows Martin, Alan
+Alan follows Martin, Ward
+Martin follows Alan
+Martin follows Ward, Alan
+Alan follows Ward
+Ward follows Martin
